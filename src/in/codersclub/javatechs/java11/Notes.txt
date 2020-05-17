@@ -1,0 +1,10 @@
+Setup
+-------
+
+During installation there is no separate installation for jre.
+Add the jre path to the windows PATH variable.
+java.exe  in bin folder.
+
+
+
+

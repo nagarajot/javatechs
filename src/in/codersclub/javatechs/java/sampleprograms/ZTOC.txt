@@ -1,0 +1,154 @@
+Pending
+
+- generics
+- vowel or consonant
+- pythagorous theorem
+- type of triangle
+- int to word conversion
+- multiplication table
+- gcd of 2 numbers
+- product and remainder
+- serializable example
+- cloneable example
+
+
+----------- pending ends here -------------------
+
+
+HelloWorld.java
+PrintNumbers.java
+CurrentDate.java
+CurrentDateDemo.java
+CurrentTime.java
+CurrentTimeDemo.java
+Maximum.java
+MaximumDemo.java
+Summation.java
+SummationDemo.java
+Factorial.java
+FactorialDemo.java
+SumOfSquares.java
+SumOfSquaresDemo.java
+Prime.java
+PrimeDemo.java
+Palindrome.java
+PalindromeDemo.java
+SimpleInterest.java
+SimpleInterestDemo.java
+CircleProcedural.java
+CircleProceduralDemo.java
+CircleOops.java
+CircleOopsDemo.java
+TrianlgeProcedural.java
+TriangleProceduralDemo.java
+TriangleOops.java
+TriangleOopsDemo.java
+Point.java
+PointDemo.java
+
+ComplexNumber.java
+ComplexNumberOperations.java
+ComplexNumberOperationsDemo.java
+
+SizeOfPrimitiveDatatypes.java
+Square.java
+SquareRoot.java
+Varargs.java
+
+Fibonacci.java
+FibonacciUsingArrays.java
+FibonacciRecursion.java
+
+StaticBlock1.java
+StaticBlock2.java
+StaticBlock3.java
+
+Alphabet.java
+AsciiValues.java
+
+StringInSwitch.java
+
+
+LinearSearch.java
+
+
+
+
+
+File Operations -----------------
+FileDisplay.java
+FileCOpy.java
+
+
+
+toString() demo --------------
+Player.java
+PlayerDemo.java
+
+
+AbstractClass -----------------------
+Shape.java
+Triangle.java
+Cirle.java
+ShapeDemo.java
+
+
+Interfaces -------
+Greeting.java
+Morning.java
+Evening.java
+Night.java
+GreetingDemo.java
+
+
+MethodOverloading -----------------------
+DisplayMessage.java
+DisplayMessageDemo.java
+
+
+Inheritance ---------------------------
+Calculator.java
+CalculatorDemo.java
+MyCalculator.java
+MyCalculatorDemo.java
+
+Comparable interface -----------------
+Driver.java (name)
+DriverSort.java
+Teacher.java
+TeachersSort.java
+
+Comparator interface -----------------------------
+Postman.java
+PostmanNameComparator.java
+PostmanAgeComparator.java
+PostmansSort.java
+
+
+Exception handling --------------------
+
+MultiCatch Demo -----------
+FirstException.java
+SecondException.java
+ThirdException.java
+MultiException.java
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

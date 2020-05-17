@@ -1,0 +1,201 @@
+RuntimeException
+----------------
+
+class hierarchy
+
+java.lang.Object 
+   java.lang.Throwable 
+      java.lang.Exception 
+         java.lang.RuntimeException
+
+
+Sub classes of RuntimeException
+
+RuntimeException
+    NullPointerException
+    ArithmeticException
+    NumberFormatException
+    InputMismatchException
+    IndexOutOfBoundsException    
+        ArrayIndexOutOfBoundsException
+        StringIndexOutOfBoundsException
+
+RuntimeException and its subclasses are unchecked exceptions.
+
+The statement which is likely to result in RuntimeException,
+need not be enclosed within the try, catch block.
+
+RuntimeExceptions are not checked during compile time.
+They are called as unchecked exceptions.
+
+They are checked during runtime.
+
+CheckedExceptions (Checked at compile time)
+-------------------------------------------
+    IOException
+    SQLException
+    ClassNotFoundException
+
+
+Examples of RuntimeExceptions
+-----------------------------
+
+01. NullPointerExceptionExample.java
+02. ArithmeticExceptionExample.java
+03. NumberFormatExceptionExample.java
+04. InputMismatchExceptionExample.java
+05. ArrayIndexOutOfBoundsExceptionExample.java
+06. StringIndexOutOfBoundsExceptionExample.java
+
+
+
+MultiCatch
+----------
+
+In some cases, more than one exception is raised by a 
+block of code.
+
+You can provide, 2 or more catch blocks, for catching 
+different exceptions.
+
+
+
+
+
+
+
+
+
+Super Sub class catch statements
+--------------------------------
+When you have multiple catch statements exception sub class
+must come before any super class exception.
+
+catch(SubClassException )
+{
+}
+catch(SuperClassException )
+{
+}
+
+A sub class must come before its superclass in a series of
+catch statements.
+
+If not, unreachable code will be created and a compile time
+error will be generated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exception handling theory
+-------------------------
+
+An exception is an abnormal condition that arises in a 
+code sequence at run time.
+
+An exception is a run time error.
+
+In computer languages which do not support 
+exception handling, errors has to be checked manually,
+by using error codes. This approach is cumbersome.
+
+C language code snippet
+
+FILE fp = fopen("test.txt","r");
+if ( fp != null )
+{
+   ------
+   ------
+}
+
+Language     Exception handling support
+---------------------------------------
+BASIC        No 
+FORTRAN      No
+PASCAL       No
+COBOL        No
+C            No
+
+C++          Yes
+Java         Yes
+C#           Yes
+PHP          Yes
+Python       Yes
+
+A exception is an object that describes an exception condition
+or an error.
+
+When an exception occurs, an object is created and thrown in 
+the method, that caused the error.
+
+The exception may be handled in the same method, or it may
+be thrown.
+
+At some point, the exception is caught and processed.
+
+Exception handling key words in java. 
+------------------------------------
+There are 5 key words in java, which are used to handle
+exceptions.
+
+try       - the suspicious method is enclosed
+catch     - indicates the actions to be taken
+finally   - used for cleanup, releasing the resources
+throw     - used to throw an exception from a method
+throws    - used to indicate the exceptions thrown from a method
+
+try
+{
+      Thread.sleep(200);
+}
+catch(InteruptedException ie)
+{
+
+}
+
+General syntax of exception handling
+------------------------------------
+try
+{
+   // block of statements or
+   // method calls
+}
+catch(ExceptionType1 ex1)
+{
+   // exception handler for ex1
+}
+catch(ExceptionType2 ex2)
+{
+   // exception handler for ex2
+}
+finally
+{
+    // block of code to be executed after try/catch block ends
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

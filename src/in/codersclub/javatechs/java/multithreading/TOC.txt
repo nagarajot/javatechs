@@ -1,0 +1,86 @@
+   Create a thread class, FirstThread by extending the 
+   Thread class.
+   Create a thread class, SecondThread by implementing 
+   the Runnable interface.
+   Create a class called as MainThread, and start
+   the threads FirstThread and SecondThread.
+   Observe the results.
+   
+   FirstThread.java
+   SecondThread.java
+   MainThread.java
+   
+   
+   Creating Multiple Threads
+   -------------------------
+   
+   Create a thread class, MyThread by implementing 
+   Runnable interface. Pass the name as the parameter
+   to the constructor. Start the thread within the 
+   constructor.
+   Print the properties of the thread such as
+   name, priority and thread group.
+   
+   Create three threads with names One, Two and Three.
+   
+   MyThread.java
+   MyThreadDemo.java
+   
+   Main Thread 
+   -------------
+   When the Java program starts execution, one thread begins 
+   running immediately.
+   
+   This is called as the main thread.
+   
+   Main thread is important for 2 reasons.
+   
+   1. It is the parent thread for all other threads.
+   2. Generally, it should be the last thread to finish
+      execution.
+      
+   Thread class has a static method called as currentThread().   
+
+   public static Thread currentThread()
+   
+   3 thread properties are displayed.
+   namely, name, priority, threadgroup
+   
+   By default, thread name will be main, thread priority
+   will be 5, thread group will be main.
+   
+   Thread[main, 5, main]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Videos :
+
+Thread Introduction
+	Thread Class 
+	Runnable interface
+	2 ways of creating threads
+    Thread priorities
+    
+Thread life cycle
+Thread implementations
+Extending Thread
+Implementing  Runnable
+TwoThread
+MultiThreads
+LambdaThread
+CurrentThread
+

@@ -1,0 +1,68 @@
+> Streams bring functional programming to Java
+> It is supported from Java 8
+> Advs of streams
+  - Will make the program more efficient
+  - Make heavy use of lambda expressions
+  - ParallelStreams make it very easy to write parallel programs
+> A stream pipeline consists of a source, followed by 
+  zero or more intermediate operations, and a terminal operation
+  
+ > Achieve more by writing few lines of code
+ > It is based on pipeline
+ 
+ Source -> Filter -> Sort - > Map - > Collect   
+ 
+ Source - arrays, lists
+ Intermediate operations - > filter, sort, map
+ Collect - terminal operation
+ 
+ Stream source may be created from collections, lists, sets,
+ ints, longs, doubles, lines of file etc
+ 
+ Operations may be either intermediate or terminal.
+ Intermediate operations such as filter, map or sort return a stream
+ So, we can chain multiple intermediate operations.
+ 
+ Terminal operations such as forEach, collect or reduce will return 
+ either void or a non stream result.
+ 
+ Intermdiate operations
+ ======================
+ 
+ = Zero or more ontermediate operations are allowed.
+ = Order matters for large datasets.
+   filter first, then sort or map.
+= Fot vety large datasets, use ParallelStream to enable 
+  multiple threads
+  
+  Intermediate operations
+  - anyMatch()
+  - distinct()
+  - filter()
+  - findFirst(0
+  - flatmap(0
+  - map()
+  - skip()
+  - sorted()
+  
+ Terminal operations :
+ --------------------
+ One terminal operation is allowed.
+    forEach applies the same function to each element.
+    collect saves the elements into a collection
+    other options reduce the stream to a single summary element
+    
+    count()
+    max()
+    min()
+    reduce()
+    summaryStatistics()
+    
+    
+    
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,53 @@
+TestServelt.java
+DateSerlet.java
+TimeServlet.java
+
+WelcomeServlet.java
+GenderServlet.java
+QualificationServlet.java
+LanguageServlet.java
+NumberSerlet.java
+MulTableServelt.java
+RangeOfDatesServelt.java
+
+Add.java
+Add1.java
+CalculatorSevlet.java
+
+UploadServelt.java
+ExcelServlet.java
+InfoServlet.java
+
+JaxbServelt.java
+JSONSrvelt.java
+
+ZodiacSignsServlet.java
+TimeZoneServelt.java
+
+
+
+ServletConfigExample.java
+ServletContextExample.java
+
+
+AddCookieServlet.java
+ReadCookiesServlet.java
+
+
+University ------
+
+      Gender :  radio
+      
+      Qualification : drop down list box
+      
+      Skills : checkbox
+      
+      Experience :    number
+
+                     Search
+                     
+                     
+                     
+                     
+
+

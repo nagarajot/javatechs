@@ -1,0 +1,29 @@
+Create the server
+Change the radio button
+
+Create a Dynamic web project
+Add jstl.jar to lib folder
+Add Mysql connector to lib folder
+
+Servlets
+-----------------
+
+
+
+
+JDBC
+--------------------
+CheckConection.java
+TeachersDisplay.java
+TeacherSearch.java
+TeacherSearchByGender.java
+TeachersCount.java
+TeacherInsert.java
+TeacherDelete.java
+TeacherUpdate.java
+TeachersSort.java
+TeachersByName.java
+TeacherMetaData.java
+SchoolMetaData.java
+JdbcUtilities.java
+

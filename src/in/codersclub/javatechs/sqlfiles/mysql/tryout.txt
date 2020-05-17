@@ -1,0 +1,1 @@
+select * from candidates a, candidate_skills b where qualification_code = 'BE-CS' and experience > 2 and gender = 'M' and b.skill_code in ('C','JV') and a.id = b.id;

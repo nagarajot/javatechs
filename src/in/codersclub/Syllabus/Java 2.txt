@@ -1,0 +1,73 @@
+Language constructs, Litrals, Loops, 
+
+
+
+OOPS
+   objects and classes
+   java.lang.Object
+   primitive data types
+   final class
+   Wrapper classes
+   Packages
+   Enumerations
+   Interfaces
+   Abstract classes
+   Concrete classes
+   Static methods
+   Non static methods
+   Inner class
+   Anonymus inner classes
+   java.util.Date
+   java.sql.Date
+   Marker interface
+   Polymorphism
+   Method overloading
+   Method overriding
+   this
+   super
+   Contructor
+   Constructor - inheritance
+   toString method
+   Comparator interface
+   Comparable interface
+   Scanner class
+   
+   JDK 5
+   - Autoboxing and unboxing
+   - Generics
+   - Annotations
+   - Enhanced for loop
+   JDK 8
+   - Lambda expressions
+   - Method reference
+   - Stream API
+   - Date and Time API
+   JDK 9
+   - Modules
+   
+   JDBC
+   - Driver types
+   - Concept of JDBC
+   - java.sql package
+   - sql interfaces
+   - sql classes
+   - Connection
+   - Statement
+   - PreparedStatement
+   - Callable Statement
+   - Stored Procedures
+   - ResultSet
+   - Writing utility class for getting connection
+   - CheckConnection
+   How to get conection to mysql
+   How to get connection to oracle
+   DatabaseMetaData
+   ResultSetMetaData
+   
+   
+   
+   
+   
+   
+   
+   
