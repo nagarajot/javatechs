@@ -1,0 +1,41 @@
+1. IntStreamExample.java
+2. IntStreamSkipExample.java
+3. IntStreamSumExample.java
+
+Creating streams
+1. StreamCreate.java
+2. StringStreamExample.java
+3. StreamFromArraysExample.java
+
+AverageOfSquares.java
+StartsWithExample.java
+MoviesExample.java
+MovieContainsExample.java
+MovieRatingsExample.java
+MovieRatingsCSV.java
+MovieRatingsMap.java
+ReduceExample.java
+SummaryStatistics.java
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

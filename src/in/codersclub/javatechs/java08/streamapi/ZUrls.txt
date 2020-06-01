@@ -1,0 +1,11 @@
+Tech Primer - 9 videos - Java 8 Streams
+https://www.youtube.com/watch?v=vHwToYEYvsU&list=PLTyWtrsGknYdqY_7lwcbJ1z4bvc5yEEZl
+
+Joe James - 1 Video - Java 8 Streams 
+https://www.youtube.com/watch?v=t1-YZ6bF-g0
+
+Streams by Durgasoft - 1 video 2 hours
+https://www.youtube.com/watch?v=5duxFiseLRE
+
+Intro to Streams - Durga soft - 20 mins
+https://www.youtube.com/watch?v=WWXPQUgXagk

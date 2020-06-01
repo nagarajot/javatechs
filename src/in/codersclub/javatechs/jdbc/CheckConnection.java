@@ -9,7 +9,7 @@ public class CheckConnection
     public static void main(String args[])
     {
         String driver = "org.gjt.mm.mysql.Driver";
-        String url = "jdbc:mysql://localhost:3306/school";
+        String url = "jdbc:mysql://localhost:3306/cc";
         String username = "root";
         String password = "";
         

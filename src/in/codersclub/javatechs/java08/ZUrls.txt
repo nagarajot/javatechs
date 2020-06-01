@@ -1,0 +1,14 @@
+
+Java 8 new Features - Durgasoft - 10 videos
+https://www.youtube.com/watch?v=Tm2BpKlv1rU&list=PLd3UqWTnYXOlrKZWFTbgguqNRA_uVyeBl
+
+v1 - lambda functions, FI, SAM
+v2 - functional interface
+
+v5 - default method and static method
+
+Java 8 - New Features - Durgasoft - 4 videos
+https://www.youtube.com/watch?v=f4QZ12wMQO8&list=PLd3UqWTnYXOmNgHwz1KB2htESdT70O6M6&index=1
+
+
+

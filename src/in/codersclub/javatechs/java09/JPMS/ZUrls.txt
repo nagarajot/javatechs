@@ -1,0 +1,64 @@
+Oracle video - Java 9 modules
+https://www.youtube.com/watch?v=22OW5t_Mbnk
+
+Modules - Tech Primers
+https://www.youtube.com/watch?v=4EXcded_P70
+------------------------------------------------
+
+Java 9 Materials Videos
+https://www.youtube.com/watch?v=ymGczWrl4AM&list=PLd3UqWTnYXOl4mPODjoLGwGXkAVAKG1DK
+
+Playlist link
+https://www.youtube.com/watch?v=K8Jc_EaBVMI&list=PLd3UqWTnYXOlcXp3bEgxelRegCgnAvcNe&index=1
+
+JPMS PDF Link
+https://drive.google.com/file/d/1rF-udv7omtQ_LuKXPrbFMXMOvgCGbZ6V/view
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Session 45 - JPMS Part 1 - Durgasoft
+Apply the concepts of basic classes and objects in C++.
+
+Session 46 - JPMS Part 2 - Durgasoft
+https://www.youtube.com/watch?v=YfqGx1aDqd0
+
+
+Session 50 - JPMS - Part 6
+https://www.youtube.com/watch?v=WPikxJvveIM
+
+
+Session 51 - JPMS - Part 7
+https://www.youtube.com/watch?v=KZAzIY9w8fs
+
+Session 52 - JPMS - Part 8
+https://www.youtube.com/watch?v=8-5MJz5DAqo
+
+
+Session 53 - JPMS - Part 9
+https://www.youtube.com/watch?v=a2Wpbg9kRuM
+
+
+Session 54 - JPMS - Part 10
+https://www.youtube.com/watch?v=069934HxtAQ
+
+Session 61 - JPMS - 17
+https://www.youtube.com/watch?v=b6ehCIgmKU4
+
+Session 63 - JPMS - 19
+https://www.youtube.com/watch?v=zs9xtQJfT2A
+
+Session 64 - JPMS - 20
+https://www.youtube.com/watch?v=LJfUSDVoU7M&list=PLd3UqWTnYXOlcXp3bEgxelRegCgnAvcNe&index=64
+
+Session 65 - JPMS - 21
+https://www.youtube.com/watch?v=7WkPEBiqEt0&list=PLd3UqWTnYXOlcXp3bEgxelRegCgnAvcNe&index=65
+
+Session 67 - JPMS - 23
+https://www.youtube.com/watch?v=5OO35RQNIcQ
+
+Session 68 - JPMS - Part 24
+https://www.youtube.com/watch?v=ml4QJgrcVq4
+
+Session 69 - JPMS - Part 25
+https://www.youtube.com/watch?v=BbYsWt-gPew
+
